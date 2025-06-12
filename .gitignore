@@ -1,0 +1,7 @@
+# Ignore playground and Xcode workspace clutter
+*.xcworkspace
+*.xcuserstate
+*.xcplayground
+*.xcodeproj
+*.xcuserdata
+*.playground
